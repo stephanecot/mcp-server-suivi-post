@@ -1,0 +1,1 @@
+podman build -t scottin/mcp-suivi-suivi-post -f Dockerfile ../target

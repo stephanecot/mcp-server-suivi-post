@@ -1,0 +1,1 @@
+docker build -t scottin/mcp-suivi-suivi-post -f Dockerfile ../docker

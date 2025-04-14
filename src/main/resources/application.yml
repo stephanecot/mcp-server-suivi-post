@@ -1,0 +1,31 @@
+server:
+  port: 8086
+
+spring:
+  application:
+    name: mcp-server-suivi-post
+
+  main:
+    banner-mode: off
+    web-application-type: none
+
+  ai:
+    mcp:
+      server:
+        name: mcp-server-suivi-post
+        version: 0.0.1
+        type: sync
+        enabled: true
+        stdio: true
+
+logging:
+  level:
+    root: off
+  pattern:
+    console:
+  file:
+    name: mcp-server-suivi-post.log
+
+app:
+  api:
+    url: https://www.laposte.fr/ssu/sun/back/suivi-unifie/{trackingNumber}
