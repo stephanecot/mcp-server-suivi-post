@@ -1,10 +1,13 @@
 This project is an example about how to build a MCP server using Spring AI.
 
+It's currently build using Spring AI 1.0.0-M7, which is a milestone version. The final version will be released in the next weeks.
+
 ## Prerequisites
 
 - Java 21
+- Spring Boot 3.4.x
 - Maven 3.x
-- Docker to build it
+- Docker to build it (or another container engine like Podman)
 
 
 ## Build
@@ -13,7 +16,7 @@ To build the project, run the following command:
 
 ```mvn clean install```
 
-then, go into the docker directory and build the docker image:
+then, we need to build the docker image:
 
 ```cd docker```
 
@@ -21,7 +24,7 @@ then, go into the docker directory and build the docker image:
 
 It will build a docker image named `scottin/mcp-suivi-suivi-post` with the tag `latest`.
 
-Then, you can use this image in a MCP client application.
+Then, you can use this image in a MCP client application like Claude Desktop or VS Code 1.99+.
 
 
 ## Integration with Claude Desktop
