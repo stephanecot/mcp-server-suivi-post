@@ -1,0 +1,13 @@
+fr\scottin\mcp\server\config\AppPropertiesConfig.class
+fr\scottin\mcp\server\tools\api\model\DeliveryChoice.class
+fr\scottin\mcp\server\McpServerSuiviPostApplication.class
+fr\scottin\mcp\server\tools\api\model\ContextData.class
+fr\scottin\mcp\server\tools\McpServerSuiviPostTools$1.class
+fr\scottin\mcp\server\tools\api\model\Event.class
+fr\scottin\mcp\server\tools\api\model\Timeline.class
+fr\scottin\mcp\server\tools\api\model\ShipmentResponse.class
+fr\scottin\mcp\server\config\AppBeanConfig.class
+fr\scottin\mcp\server\tools\api\model\Shipment.class
+fr\scottin\mcp\server\tools\McpServerSuiviPostTools.class
+fr\scottin\mcp\server\tools\api\model\Partner.class
+fr\scottin\mcp\server\config\AppPropertiesConfig$AppApiConfig.class

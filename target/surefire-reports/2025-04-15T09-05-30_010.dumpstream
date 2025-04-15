@@ -1,0 +1,5 @@
+# Created at 2025-04-15T09:05:30.220
+Boot Manifest-JAR contains absolute paths in classpath 'D:\dev\workspaces\ai\mcp-server-suivi-post\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+'other' has different root
+
