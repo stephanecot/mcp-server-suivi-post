@@ -28,4 +28,4 @@ logging:
 
 app:
   api:
-    url: https://www.laposte.fr/ssu/sun/back/suivi-unifie/{trackingNumber}
+    url: https://www.laposte.fr/ssu/sun/back/suivi-unifie/{trackingNumber}?lang=fr
