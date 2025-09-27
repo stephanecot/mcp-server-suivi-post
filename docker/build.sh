@@ -1,1 +1,1 @@
-docker build -t scottin/mcp-suivi-suivi-post -f Dockerfile ../docker
+docker build -t scottin/mcp-suivi-suivi-post -f Dockerfile ../target
